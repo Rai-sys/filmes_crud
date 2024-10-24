@@ -12,5 +12,5 @@ lerFilmes();
 atualizarFilme("1a2a3a", "Como Não Conquistar um Homem em 10 Dias", "02/10/2026", "Comédia", "nota 8");
 lerFilmes();
 
-deletarFilme("1a2a3a");
-lerFilmes();
+// deletarFilme("1a2a3a");
+// lerFilmes();
